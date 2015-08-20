@@ -11,10 +11,9 @@ This is the course material for the course [Statistics for Genomic Data Sciences
 
 The R markdown lecture notes for this course are available as vignettes in the corresponding [genstats](https://github.com/jtleek/genstats) R package. You can install this package by using the commands: 
 
-```
 install.packages("devtools")
 devtools::install_github("jtleek/genstats")
-```
+
 
 ### Lecture Notes
 
