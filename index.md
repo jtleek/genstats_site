@@ -19,7 +19,7 @@ devtools::install_github("jtleek/genstats")
 
 | Lecture | Week  |  Slides  |  Code  | 
 |---|---|---|---|
-
+| This | is | a | test| case| 
 
  
  
