@@ -1,0 +1,70 @@
+---
+output:
+  html_document:
+    theme: cosmo
+---
+
+## Statistics for Genomic Data Science
+
+**Instructor:** [Jeff Leek](http://www.jtleek.com/)
+
+
+**Class Website:**
+
+* [Statistics for Genomic Data Science](https://www.coursera.org/course/genstats)
+* [Genomic Data Science Specialization](https://www.coursera.org/specialization/genomics/41)
+
+
+**Resources:**
+
+* [Rstudio](http://www.rstudio.com/), [R project](http://www.r-project.org/), and [Bioconductor](http://bioconductor.org/)
+* [Rstudio's cheatsheets](http://www.rstudio.com/resources/cheatsheets/) 
+* [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)
+
+
+**Course Materials**
+
+
+| Week  | Lecture  |  Video | Notes | Code |
+|---|---|---|---|---|
+| 1 | | |  |  |
+|---|---|---|---|---|
+
+
+**Course R package**
+
+You can get all of the code used in the class by installing the R package:
+
+```{r eval=FALSE}
+source("http://bioconductor.org/biocLite.R")
+biocLite("devtools")    # only if devtools not yet installed
+biocLite("jtleek/genstats")
+```
+
+You can see the list of lecture notes and open them using the vignette command:
+
+```{r eval=FALSE}
+vignette(package="genstats")
+vignette("rmarkdown")
+```
+
+
+<!-- Add links to the rest of the material as we go
+
+
+
+-->
+
+**Miscellaneous**
+
+Feel free to submit typos/errors/etc via the github repository associated with the class: 
+https://github.com/jtleek/genstats_site
+
+This web-page is modified from Andrew Jaffe's [Summer 2015 R course](http://www.aejaffe.com/summerR_2015/), which also has great material if you want to learn R. 
+
+```{r, eval = FALSE, echo = FALSE}
+## Render this file:
+rmarkdown::render('index.Rmd')
+```
+
+This page was last updated on `r Sys.time()` Eastern Time.
