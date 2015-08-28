@@ -17,6 +17,10 @@ output:
 
 **Resources:**
 
+* [Installing R for Windows](https://www.youtube.com/watch?v=LII6of-5Odw)
+* [Installing R for Mac](https://www.youtube.com/watch?v=xokJUwn0mis)
+* [Installing RStudio Mac](https://www.youtube.com/watch?v=JbTMvQ-SbvQ)
+
 * [Rstudio](http://www.rstudio.com/), [R project](http://www.r-project.org/), and [Bioconductor](http://bioconductor.org/)
 * [Rstudio's cheatsheets](http://www.rstudio.com/resources/cheatsheets/) 
 * [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)
@@ -25,21 +29,69 @@ output:
 **Course Materials**
 
 
-| Week  | Lecture  |  Video | Notes | Code |
+| Week/Lecture  | Lecture  |  Video | Notes | Code |
 |---|---|---|---|---|
-| 0 | About this course | | [Google Slides](https://docs.google.com/presentation/d/1M64qJM4nWCGSqfoIvFOYTmef7R38qz9XrWvS09qHowQ/edit?usp=sharing) [pdf](lecture_notes/00_01_About this course.pdf)| NA  |
-| 0 | What is statistics? | | [Google Slides](https://docs.google.com/presentation/d/1Ct_5FOgfRPIxu2apxDBQBvuMHznsPZcykllQMjvcx0A/edit?usp=sharing) [pdf](lecture_notes/00_02_What is statistics-.pdf)| NA  |
-| 0 | Knowing what to trust and getting help | | [Google Slides](https://docs.google.com/presentation/d/1wPwjXKsFct3tr20fzWCnE32kCRriieeV7HrcY7kQrtw/edit?usp=sharing) [pdf](lecture_notes/00_03_Knowing what to trust and getting help.pdf)| NA  |
+| 0/1 | About this course | | [Google Slides](https://docs.google.com/presentation/d/1M64qJM4nWCGSqfoIvFOYTmef7R38qz9XrWvS09qHowQ/edit?usp=sharing) [pdf](lecture_notes/00_01_About this course.pdf)|   |
+| 0/2 | What is statistics? | | [Google Slides](https://docs.google.com/presentation/d/1Ct_5FOgfRPIxu2apxDBQBvuMHznsPZcykllQMjvcx0A/edit?usp=sharing) [pdf](lecture_notes/00_02_What is statistics-.pdf)|   |
+| 0/3 | Statistics for Genomics | | [Google Slides](https://docs.google.com/presentation/d/1zUCck2yhKt0YEwZJfKjzlhOzPSBvFVZp4XKi8CNaPoY/edit?usp=sharing) [pdf](lecture_notes/00_03_Statistics_for_Genomics.pdf) | |
+| 0/4 | Knowing what to trust and getting help | | [Google Slides](https://docs.google.com/presentation/d/1wPwjXKsFct3tr20fzWCnE32kCRriieeV7HrcY7kQrtw/edit?usp=sharing) [pdf](lecture_notes/00_04_Knowing what to trust and getting help.pdf)|  |
 |---|---|---|---|---|
-| 1 | Week 1 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1sWtpWd-BvWVDIUlk0McCIqHfPVNG_3J-Ybef71PmGec/edit?usp=sharing) [pdf](lecture_notes/01_01_Week1_Introduction.pdf) | NA  |
+| 1/1 | Week 1 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1sWtpWd-BvWVDIUlk0McCIqHfPVNG_3J-Ybef71PmGec/edit?usp=sharing) [pdf](lecture_notes/01_01_Week1_Introduction.pdf) |   |
+| 1/2 | Reproducible research | | [Google Slides](https://docs.google.com/presentation/d/12eQmdZMaqc0yXB3ReQHqPQykkCbHmrJzLfRHC9Exs1U/edit?usp=sharing) [pdf](lecture_notes/01_02_Reproducible_Research.pdf) | |
+| 1/3 | Achieving reproducible research | | [Google Slides](https://docs.google.com/presentation/d/1CMFy_zJIG0tpBjBB-LHWELGZixrH5G2AwNCmQsX7_Co/edit?usp=sharing) [pdf](lecture_notes/01_03_Achieving_Reproducibility.pdf) | NA|
+| 1/4 | R markdown | | [html](http://jtleek.com/genstats/inst/doc/01_04_rmarkdown.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_04_rmarkdown.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_04_rmarkdown.R)|
+| 1/5 | The three tables in genomics || [Google Slides](https://docs.google.com/presentation/d/1w8Gxgt8CgslUQWtK3JmVQlTA-2MtZm61uKhhvQmFpXw/edit?usp=sharing) [pdf](lecture_notes/01_05_The_Three_Tables.pdf) | |
+| 1/6 | The three tables in genomics (in R) || [html](http://jtleek.com/genstats/inst/doc/01_06_three-tables.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_06_three-tables.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_06_three-tables.R)|
+| 1/7 | Experimental Design: variability, replication, and power || [Google Slides](https://docs.google.com/presentation/d/1tOuTVvnIpNm_QaEpaFBvD04z2y06sFqFWBqwO6GfJes/edit?usp=sharing) [pdf](lecture_notes/01_07_Experimental_Design_Variability_Replication_and_Power.pdf) | NA | 
+| 1/8 | Experimental Design: confounding and randomization || [Google Slides](https://docs.google.com/presentation/d/1aCfQqTqDjvRAX3O_WHevKAPRTiqOqIpUeZxRLtL8XKs/edit?usp=sharing) [pdf](lecture_notes/01_08_Experimental_Design_Confounding_and_Randomization.pdf) |  |
+| 1/9 | Exploratory Analysis || [Google Slides](https://docs.google.com/presentation/d/1ev-dv5HPxALM3lNKB0OpyfKXVOQXgwLG-SCou2tsPcA/edit?usp=sharing) [pdf](lecture_notes/01_09_Exploratory_Analysis.pdf)|  |
+| 1/10 | Exploratory Analysis in R || [html](http://jtleek.com/genstats/inst/doc/01_10_exploratory-analysis.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_10_exploratory-analysis.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_10_exploratory-analysis.R) |
+| 1/11 | Data transforms | | [html](http://jtleek.com/genstats/inst/doc/01_11_transforms.html)| [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_11_transforms.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_11_transforms.R) |
+| 1/12 | Clustering || [Google Slides](https://docs.google.com/presentation/d/1YoXbjiRoowu0jhHFAu7U2g5Q21k6SNJyLNFAtJ8ZGtM/edit?usp=sharing) [pdf](lecture_notes/01_12_Clustering.pdf) ||
+| 1/13 | Clustering in R || [html](http://jtleek.com/genstats/inst/doc/01_13_clustering.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_13_clustering.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/01_13_clustering.R)|
 |---|---|---|---|---|
-| 2 | Week 2 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1Gz-sRPlpAdZKVJ9QayOSSCCSjzn15clPWnafWjP2PXQ/edit?usp=sharing) [pdf](lecture_notes/02_01_Week2_Introduction.pdf) | NA  |
+| 2/1 | Week 2 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1Gz-sRPlpAdZKVJ9QayOSSCCSjzn15clPWnafWjP2PXQ/edit?usp=sharing) [pdf](lecture_notes/02_01_Week2_Introduction.pdf) |  |
+| 2/2 | Dimension reduction || [Google Slides](https://docs.google.com/presentation/d/1Tbxy5VvtB2o1_xouI8-wZE9rXVYU3VVOmC7YgHwU7DQ/edit?usp=sharing) [pdf](lecture_notes/02_02_Dimension_Reduction.pdf) |  |
+| 2/3 | Dimension reduction (in R) || [html](http://jtleek.com/genstats/inst/doc/02_03_dimension-reduction.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_03_dimension-reduction.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_03_dimension-reduction.R) |
+| 2/4 | Pre-processing and normalization || [Google Slides](https://docs.google.com/presentation/d/1S6UTbq6YtljdPGbPyU9p9fHvZDYHcp9PdAh9KPm3YzM/edit?usp=sharing) [pdf](lecture_notes/02_04_Preprocessing_and_Normalization.pdf) ||
+| 2/5 | Quantile normalization (in R) || [html](http://jtleek.com/genstats/inst/doc/02_05_normalization.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_05_normalization.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_05_normalization.R)|
+| 2/6 | The linear model || [Google Slides](https://docs.google.com/presentation/d/1Vh2b0uHtprhcwtMpg_xYEkiJP5JX5hJTJO4B3m5t-vE/edit?usp=sharing) [pdf](lecture_notes/02_06_Linear_models.pdf) | [html](http://jtleek.com/genstats/inst/doc/02_06_galton-example.html) [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_06_galton-example.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_06_galton-example.R)|
+| 2/7 | Linear models with categorical covariates || [Google Slides](https://docs.google.com/presentation/d/1pqjeVIkTZVMmsmSrDn30UrxhgMPTQ-b0uCgoh7QEeko/edit?usp=sharing) [pdf](lecture_notes/02_07_Linear_Models_Categorical_Outcomes.pdf)| |
+| 2/8 | Adjusting for covariates | | [Google Slides](https://docs.google.com/presentation/d/1hV6Xx1m11OAwdr3fx2xaEGaI9UbzCSsbfl2P7FPkHLQ/edit?usp=sharing) [pdf](lecture_notes/02_08_Adjusting_for_covariates.pdf)  | [html](http://jtleek.com/genstats/inst/doc/02_08_poverty-example.html) [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_08_poverty-example.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_08_poverty-example.R) |
+| 2/9 | Linear regression in R || [html](http://jtleek.com/genstats/inst/doc/02_09_linear-regression.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_09_linear-regression.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_09_linear-regression.R) |
+| 2/10 | Many regressions at once | | [Google Slides](https://docs.google.com/presentation/d/1E_uTkghgpd5NBruIqjMurX-wxFWJPtKTHS4laNKsFVo/edit?usp=sharing) [pdf](lecture_notes/02_10_Many_Regressions.pdf) ||
+| 2/11 | Many regressions in R ||[html](http://jtleek.com/genstats/inst/doc/02_11_many-regressions.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_11_many-regressions.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_11_many-regressions.R) |
+| 2/12 | Batch effects and confounders || [Google Slides](https://docs.google.com/presentation/d/1qAhxhJzFm485C0_93HmrQ2mITVR0sZqya0kaG2sQ8jg/edit?usp=sharing) [pdf](lecture_notes/02_12_Batch_Effects_and_Confounders.pdf) | |
+| 2/13 | Batch effecs in R ||[html](http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_13_batch-effects.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_13_batch-effects.R)|
 |---|---|---|---|---|
-| 3 | Week 3 Introduction | | [Google Slides](https://docs.google.com/presentation/d/133fCjZduCBkK-EjU6sawPGVH-Gu61DWsiDMwBN3oCdY/edit?usp=sharing) [pdf](lecture_notes/03_01_Week3_Introduction.pdf) | NA  |
+| 3/1 | Week 3 Introduction | | [Google Slides](https://docs.google.com/presentation/d/133fCjZduCBkK-EjU6sawPGVH-Gu61DWsiDMwBN3oCdY/edit?usp=sharing) [pdf](lecture_notes/03_01_Week3_Introduction.pdf) |   |
+| 3/2 | Logistic regression || [Google Slides](https://docs.google.com/presentation/d/1yMkQR2Pwz73gjFBSGjiWKhOgCmAdcb1_99pNTAUBoQ0/edit?usp=sharing) [pdf](lecture_notes/03_01_Logistic_Regression.pdf) | |
+| 3/3 | Regression for counts|| [Google Slides](https://docs.google.com/presentation/d/1BY2sQgZiUvBLlLIzRnxaGVXRMX4UoSkN_bAxAg7YhBk/edit?usp=sharing) [pdf](lecture_notes/03_02_Regression_For_Counts.pdf) | |
+| 3/4 | GLMs in R || ||
+| 3/5 | Inference || [Google Slides](https://docs.google.com/presentation/d/1nScNQ8KWZeN9JdalCWHISxTYn1kabOlyGoLNvijVbgw/edit?usp=sharing) [pdf](lecture_notes/03_04_Inference.pdf) ||
+| 3/6 | Null and alternative hypotheses || [Google Slides](https://docs.google.com/presentation/d/1Swuv26CvCDjmbo-sr8Ab0mwqm9xjyPWBBKUQaBvUA2o/edit?usp=sharing) [pdf](lecture_notes/03_05_Null_and_Alternative_Hypotheses.pdf)||
+| 3/7 | Calculating statistics || [Google Slides](https://docs.google.com/presentation/d/1ihC-JNwDz2qUm_3xRdBA4sWKr7OKSFYrverz64VkCcs/edit?usp=sharing) [pdf](lecture_notes/03_07_Calculating_Statistics.pdf) | |
+| 3/8 | Comparing models || [Google Slides](https://docs.google.com/presentation/d/1eTxmWaLytgtJsHxcqw6yMNKvPL8LUyzPKH3AL-nCCU8/edit?usp=sharing) [pdf](lecture_notes/03_08_Comparing_Models.pdf) | [html](http://jtleek.com/genstats/inst/doc/03_08_comparing-models.html) [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_08_comparing-models.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_08_comparing-models.R)||
+| 3/9 | Calculating statistics in R || |||
+| 3/10 | Permutation || [Google Slides](https://docs.google.com/presentation/d/11bq2zCZmlqovnl8DmgVlV3-xfHHAZsUgI03v8fDmb9g/edit?usp=sharing) [pdf](lecture_notes/03_10_Permutation.pdf) | |
+| 3/11 | Permutation in R || | ||
+| 3/12 | P-values || [Google Slides](https://docs.google.com/presentation/d/1z3hi_DDocFMcq0RzQYxCY69_gLqdHKvKj8DX_efh6es/edit?usp=sharing) [pdf](lecture_notes/03_12_P-values.pdf) | |
+| 3/13 | Multiple testing || [Google Slides](https://docs.google.com/presentation/d/1kkWJRWehPnbzLUA5F8g5CjRzpWCn6a5uQBYC1iUwsyk/edit?usp=sharing) [pdf](lecture_notes/03_13_Multiple-testing.pdf) | |
+| 3/14 | P-values and multiple testing in R || | ||
 |---|---|---|---|---|
-| 4 | Week 4 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1sV8oS8ivmub7SQ_YUSyAqbqZ5xjgu5m3MzcNgjlRRW0/edit?usp=sharing) [pdf](lecture_notes/04_01_Week4_Introduction.pdf) | NA  |
-|---|---|---|---|---|
-| Wrapup | Course Wrap-up | | [Google Slides](https://docs.google.com/presentation/d/1DNrW5ZN17zsEXnwOWIVVVQ7VYSNqOO9wUKXuHDfw6TQ/edit?usp=sharing) [pdf](lecture_notes/05_01_WrapUp.pdf) | NA  |
+| 4/1 | Week 4 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1sV8oS8ivmub7SQ_YUSyAqbqZ5xjgu5m3MzcNgjlRRW0/edit?usp=sharing) [pdf](lecture_notes/04_01_Week4_Introduction.pdf) |  |
+| 4/2 | Gene set analysis || [Google Slides](https://docs.google.com/presentation/d/1Hn58XBzzrGiL9hhk9C5TikD0fqNs-9vbxOXx-QKfM7k/edit?usp=sharing) [pdf](lecture_notes/04_02_Gene_Set_Enrichment.pdf) | |
+| 4/3 | Gene set analysis in R || ||
+| 4/4 | The process for RNA-seq || [Google Slides](https://docs.google.com/presentation/d/1U772a4WwYAT11kUn-jNDEUtLEgetbKHDxRrK0KD5z88/edit?usp=sharing) [pdf](lecture_notes/04_04_Process_for_RNA-seq.pdf)||
+| 4/5 | The process for Chip-Seq ||[Google Slides](https://docs.google.com/presentation/d/1z3pxhFyg2W7bcFaDb2O0MOwS33mh7CrtAPbnfWaZx48/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_ChIP-Seq.pdf)||
+| 4/6 | The process for DNA methylation || [Google Slides](https://docs.google.com/presentation/d/1d6Vn9lGP1cvnCHbHe0MvNJkFlf8seekr6tqKX3kR4I4/edit?usp=sharing) [pdf](lecture_notes/04_06_Process_for_DNA_Methylation.pdf)||
+| 4/7 | The process for GWAS/WGS || [Google Slides](https://docs.google.com/presentation/d/1r3FTQfcS6aoCmA40BZIw_D4b3W4E8cor4LzJotCXCa0/edit?usp=sharing) [pdf](lecture_notes/04_07_Process_for_GWAS_and_WGS.pdf)||
+| 4/8 | Combining data types (eQTL) ||[Google Slides](https://docs.google.com/presentation/d/1bNeOkrK-wuECVbqWu5LF6WoDxcpAuHsgXXBwWLSjits/edit?usp=sharing) [pdf](lecture_notes/04_08_eQTL.pdf)||
+| 4/9 | eQTL in R || ||
+| 4/10 | Researcher degrees of freedom || [Google Slides](https://docs.google.com/presentation/d/1zn1FBqt8QyxGNhDRnJk_WlQdvdfiiCQ9xFNDTQbisaw/edit?usp=sharing) [pdf](lecture_notes/04_10_Researcher_Degrees_of_Freedom.pdf)| [Interesting example](http://fivethirtyeight.com/features/science-isnt-broken/) |
+| 4/11 | Inference vs. prediction || [Google Slides](https://docs.google.com/presentation/d/1kOLtJjTLK7AqC5epde9vYucggl1Wd-UOa_hXAHgyhHI/edit?usp=sharing) [pdf](lecture_notes/04_11_Inference_vs_Prediction.pdf)
+| 4/12 | Knowing when to get help || [Google Slides](https://docs.google.com/presentation/d/1MbuzdUVLPE9dLRmBY2bT7ivJ-ACU-lSLLQN6AyMabcI/edit?usp=sharing) [pdf](lecture_notes/04_12_Knowing_When_To_Get_Help.pdf) | [R markdown]()|
+| 4/12 | Course Wrap-up | | [Google Slides](https://docs.google.com/presentation/d/1DNrW5ZN17zsEXnwOWIVVVQ7VYSNqOO9wUKXuHDfw6TQ/edit?usp=sharing) [pdf](lecture_notes/04_01_WrapUp.pdf) |  |
 |---|---|---|---|---|
 
 
