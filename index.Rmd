@@ -31,7 +31,7 @@ output:
 
 | Week/Lecture  | Lecture  |  Video | Notes | Code |
 |---|---|---|---|---|
-| 0/1 | About this course | | [Google Slides](https://docs.google.com/presentation/d/1M64qJM4nWCGSqfoIvFOYTmef7R38qz9XrWvS09qHowQ/edit?usp=sharing) [pdf](lecture_notes/00_01_About this course.pdf)|   |
+| 0/1 | Welcome | | [Google Slides](https://docs.google.com/presentation/d/1M64qJM4nWCGSqfoIvFOYTmef7R38qz9XrWvS09qHowQ/edit?usp=sharing) [pdf](lecture_notes/00_01_Welcome.pdf)|   |
 | 0/2 | What is statistics? | | [Google Slides](https://docs.google.com/presentation/d/1Ct_5FOgfRPIxu2apxDBQBvuMHznsPZcykllQMjvcx0A/edit?usp=sharing) [pdf](lecture_notes/00_02_What is statistics-.pdf)|   |
 | 0/3 | Statistics for Genomics | | [Google Slides](https://docs.google.com/presentation/d/1zUCck2yhKt0YEwZJfKjzlhOzPSBvFVZp4XKi8CNaPoY/edit?usp=sharing) [pdf](lecture_notes/00_03_Statistics_for_Genomics.pdf) | |
 | 0/4 | Knowing what to trust and getting help | | [Google Slides](https://docs.google.com/presentation/d/1wPwjXKsFct3tr20fzWCnE32kCRriieeV7HrcY7kQrtw/edit?usp=sharing) [pdf](lecture_notes/00_04_Knowing what to trust and getting help.pdf)|  |
