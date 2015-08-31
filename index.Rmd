@@ -58,7 +58,7 @@ output:
 | 2/4 | Pre-processing and normalization || [Google Slides](https://docs.google.com/presentation/d/1S6UTbq6YtljdPGbPyU9p9fHvZDYHcp9PdAh9KPm3YzM/edit?usp=sharing) [pdf](lecture_notes/02_04_Preprocessing_and_Normalization.pdf) ||
 | 2/5 | Quantile normalization (in R) || [html](http://jtleek.com/genstats/inst/doc/02_05_normalization.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_05_normalization.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_05_normalization.R)|
 | 2/6 | The linear model || [Google Slides](https://docs.google.com/presentation/d/1Vh2b0uHtprhcwtMpg_xYEkiJP5JX5hJTJO4B3m5t-vE/edit?usp=sharing) [pdf](lecture_notes/02_06_Linear_models.pdf) | [html](http://jtleek.com/genstats/inst/doc/02_06_galton-example.html) [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_06_galton-example.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_06_galton-example.R)|
-| 2/7 | Linear models with categorical covariates || [Google Slides](https://docs.google.com/presentation/d/1pqjeVIkTZVMmsmSrDn30UrxhgMPTQ-b0uCgoh7QEeko/edit?usp=sharing) [pdf](lecture_notes/02_07_Linear_Models_Categorical_Outcomes.pdf)| |
+| 2/7 | Linear models with categorical covariates || [Google Slides](https://docs.google.com/presentation/d/1pqjeVIkTZVMmsmSrDn30UrxhgMPTQ-b0uCgoh7QEeko/edit?usp=sharing) [pdf](lecture_notes/02_07_Linear_Models_Categorical_Covariates.pdf)| |
 | 2/8 | Adjusting for covariates | | [Google Slides](https://docs.google.com/presentation/d/1hV6Xx1m11OAwdr3fx2xaEGaI9UbzCSsbfl2P7FPkHLQ/edit?usp=sharing) [pdf](lecture_notes/02_08_Adjusting_for_covariates.pdf)  | [html](http://jtleek.com/genstats/inst/doc/02_08_poverty-example.html) [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_08_poverty-example.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_08_poverty-example.R) |
 | 2/9 | Linear regression in R || [html](http://jtleek.com/genstats/inst/doc/02_09_linear-regression.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_09_linear-regression.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_09_linear-regression.R) |
 | 2/10 | Many regressions at once | | [Google Slides](https://docs.google.com/presentation/d/1E_uTkghgpd5NBruIqjMurX-wxFWJPtKTHS4laNKsFVo/edit?usp=sharing) [pdf](lecture_notes/02_10_Many_Regressions.pdf) ||
@@ -67,11 +67,11 @@ output:
 | 2/13 | Batch effecs in R ||[html](http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_13_batch-effects.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/02_13_batch-effects.R)|
 |---|---|---|---|---|
 | 3/1 | Week 3 Introduction | | [Google Slides](https://docs.google.com/presentation/d/133fCjZduCBkK-EjU6sawPGVH-Gu61DWsiDMwBN3oCdY/edit?usp=sharing) [pdf](lecture_notes/03_01_Week3_Introduction.pdf) |   |
-| 3/2 | Logistic regression || [Google Slides](https://docs.google.com/presentation/d/1yMkQR2Pwz73gjFBSGjiWKhOgCmAdcb1_99pNTAUBoQ0/edit?usp=sharing) [pdf](lecture_notes/03_01_Logistic_Regression.pdf) | |
-| 3/3 | Regression for counts|| [Google Slides](https://docs.google.com/presentation/d/1BY2sQgZiUvBLlLIzRnxaGVXRMX4UoSkN_bAxAg7YhBk/edit?usp=sharing) [pdf](lecture_notes/03_02_Regression_For_Counts.pdf) | |
+| 3/2 | Logistic regression || [Google Slides](https://docs.google.com/presentation/d/1yMkQR2Pwz73gjFBSGjiWKhOgCmAdcb1_99pNTAUBoQ0/edit?usp=sharing) [pdf](lecture_notes/03_02_Logistic_Regression.pdf) | |
+| 3/3 | Regression for counts|| [Google Slides](https://docs.google.com/presentation/d/1BY2sQgZiUvBLlLIzRnxaGVXRMX4UoSkN_bAxAg7YhBk/edit?usp=sharing) [pdf](lecture_notes/03_03_Regression_For_Counts.pdf) | |
 | 3/4 | GLMs in R || ||
-| 3/5 | Inference || [Google Slides](https://docs.google.com/presentation/d/1nScNQ8KWZeN9JdalCWHISxTYn1kabOlyGoLNvijVbgw/edit?usp=sharing) [pdf](lecture_notes/03_04_Inference.pdf) ||
-| 3/6 | Null and alternative hypotheses || [Google Slides](https://docs.google.com/presentation/d/1Swuv26CvCDjmbo-sr8Ab0mwqm9xjyPWBBKUQaBvUA2o/edit?usp=sharing) [pdf](lecture_notes/03_05_Null_and_Alternative_Hypotheses.pdf)||
+| 3/5 | Inference || [Google Slides](https://docs.google.com/presentation/d/1nScNQ8KWZeN9JdalCWHISxTYn1kabOlyGoLNvijVbgw/edit?usp=sharing) [pdf](lecture_notes/03_05_Inference.pdf) ||
+| 3/6 | Null and alternative hypotheses || [Google Slides](https://docs.google.com/presentation/d/1Swuv26CvCDjmbo-sr8Ab0mwqm9xjyPWBBKUQaBvUA2o/edit?usp=sharing) [pdf](lecture_notes/03_06_Null_and_Alternative_Hypotheses.pdf)||
 | 3/7 | Calculating statistics || [Google Slides](https://docs.google.com/presentation/d/1ihC-JNwDz2qUm_3xRdBA4sWKr7OKSFYrverz64VkCcs/edit?usp=sharing) [pdf](lecture_notes/03_07_Calculating_Statistics.pdf) | |
 | 3/8 | Comparing models || [Google Slides](https://docs.google.com/presentation/d/1eTxmWaLytgtJsHxcqw6yMNKvPL8LUyzPKH3AL-nCCU8/edit?usp=sharing) [pdf](lecture_notes/03_08_Comparing_Models.pdf) | [html](http://jtleek.com/genstats/inst/doc/03_08_comparing-models.html) [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_08_comparing-models.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_08_comparing-models.R)||
 | 3/9 | Calculating statistics in R || |||
@@ -83,8 +83,9 @@ output:
 |---|---|---|---|---|
 | 4/1 | Week 4 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1sV8oS8ivmub7SQ_YUSyAqbqZ5xjgu5m3MzcNgjlRRW0/edit?usp=sharing) [pdf](lecture_notes/04_01_Week4_Introduction.pdf) |  |
 | 4/2 | Gene set analysis || [Google Slides](https://docs.google.com/presentation/d/1Hn58XBzzrGiL9hhk9C5TikD0fqNs-9vbxOXx-QKfM7k/edit?usp=sharing) [pdf](lecture_notes/04_02_Gene_Set_Enrichment.pdf) | |
-| 4/3 | Gene set analysis in R || ||
-| 4/4 | The process for RNA-seq || [Google Slides](https://docs.google.com/presentation/d/1U772a4WwYAT11kUn-jNDEUtLEgetbKHDxRrK0KD5z88/edit?usp=sharing) [pdf](lecture_notes/04_04_Process_for_RNA-seq.pdf)||
+| 4/3 | More enrichment || [Google Slides](https://docs.google.com/presentation/d/1vaqmlzgJ8YtnQnq_TDpOUoaAwGrvS7j7h0zvcVRwYwg/edit?usp=sharing) [pdf](lecture_notes/04_03_More_Enrichment.pdf) | |
+| 4/4 | Gene set analysis in R || ||
+| 4/5 | The process for RNA-seq || [Google Slides](https://docs.google.com/presentation/d/1U772a4WwYAT11kUn-jNDEUtLEgetbKHDxRrK0KD5z88/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_RNA-seq.pdf)||
 | 4/5 | The process for Chip-Seq ||[Google Slides](https://docs.google.com/presentation/d/1z3pxhFyg2W7bcFaDb2O0MOwS33mh7CrtAPbnfWaZx48/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_ChIP-Seq.pdf)||
 | 4/6 | The process for DNA methylation || [Google Slides](https://docs.google.com/presentation/d/1d6Vn9lGP1cvnCHbHe0MvNJkFlf8seekr6tqKX3kR4I4/edit?usp=sharing) [pdf](lecture_notes/04_06_Process_for_DNA_Methylation.pdf)||
 | 4/7 | The process for GWAS/WGS || [Google Slides](https://docs.google.com/presentation/d/1r3FTQfcS6aoCmA40BZIw_D4b3W4E8cor4LzJotCXCa0/edit?usp=sharing) [pdf](lecture_notes/04_07_Process_for_GWAS_and_WGS.pdf)||
