@@ -79,18 +79,18 @@ output:
 | 3/11 | Permutation in R ||[html](http://jtleek.com/genstats/inst/doc/03_11_Permutation.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_11_Permutation.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_11_Permutation.R) |
 | 3/12 | P-values || [Google Slides](https://docs.google.com/presentation/d/1z3hi_DDocFMcq0RzQYxCY69_gLqdHKvKj8DX_efh6es/edit?usp=sharing) [pdf](lecture_notes/03_12_P-values.pdf) | |
 | 3/13 | Multiple testing || [Google Slides](https://docs.google.com/presentation/d/1kkWJRWehPnbzLUA5F8g5CjRzpWCn6a5uQBYC1iUwsyk/edit?usp=sharing) [pdf](lecture_notes/03_13_Multiple-testing.pdf) | |
-| 3/14 | P-values and multiple testing in R || | ||
+| 3/14 | P-values and multiple testing in R ||[html](http://jtleek.com/genstats/inst/doc/03_14_P-values-and-Multiple-Testing.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_14_P-values-and-Multiple-Testing.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_14_P-values-and-Multiple-Testing.R) |
 |---|---|---|---|---|
 | 4/1 | Week 4 Introduction | | [Google Slides](https://docs.google.com/presentation/d/1sV8oS8ivmub7SQ_YUSyAqbqZ5xjgu5m3MzcNgjlRRW0/edit?usp=sharing) [pdf](lecture_notes/04_01_Week4_Introduction.pdf) |  |
 | 4/2 | Gene set analysis || [Google Slides](https://docs.google.com/presentation/d/1Hn58XBzzrGiL9hhk9C5TikD0fqNs-9vbxOXx-QKfM7k/edit?usp=sharing) [pdf](lecture_notes/04_02_Gene_Set_Enrichment.pdf) | |
 | 4/3 | More enrichment || [Google Slides](https://docs.google.com/presentation/d/1vaqmlzgJ8YtnQnq_TDpOUoaAwGrvS7j7h0zvcVRwYwg/edit?usp=sharing) [pdf](lecture_notes/04_03_More_Enrichment.pdf) | |
-| 4/4 | Gene set analysis in R || ||
+| 4/4 | Gene set analysis in R ||[html](http://jtleek.com/genstats/inst/doc/04_04_Gene_Sets.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/04_04_Gene_Sets.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/04_04_Gene_Sets.R) |
 | 4/5 | The process for RNA-seq || [Google Slides](https://docs.google.com/presentation/d/1U772a4WwYAT11kUn-jNDEUtLEgetbKHDxRrK0KD5z88/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_RNA-seq.pdf)||
 | 4/6 | The process for Chip-Seq ||[Google Slides](https://docs.google.com/presentation/d/1z3pxhFyg2W7bcFaDb2O0MOwS33mh7CrtAPbnfWaZx48/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_ChIP-Seq.pdf)||
 | 4/7 | The process for DNA methylation || [Google Slides](https://docs.google.com/presentation/d/1d6Vn9lGP1cvnCHbHe0MvNJkFlf8seekr6tqKX3kR4I4/edit?usp=sharing) [pdf](lecture_notes/04_07_Process_for_DNA_Methylation.pdf)||
 | 4/8 | The process for GWAS/WGS || [Google Slides](https://docs.google.com/presentation/d/1r3FTQfcS6aoCmA40BZIw_D4b3W4E8cor4LzJotCXCa0/edit?usp=sharing) [pdf](lecture_notes/04_08_Process_for_GWAS_and_WGS.pdf)||
 | 4/9 | Combining data types (eQTL) ||[Google Slides](https://docs.google.com/presentation/d/1bNeOkrK-wuECVbqWu5LF6WoDxcpAuHsgXXBwWLSjits/edit?usp=sharing) [pdf](lecture_notes/04_09_eQTL.pdf)||
-| 4/10 | eQTL in R || ||
+| 4/10 | eQTL in R ||[html](http://jtleek.com/genstats/inst/doc/04_10_eQTL.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/04_10_eQTL.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/04_10_eQTL.R) |
 | 4/11 | Researcher degrees of freedom || [Google Slides](https://docs.google.com/presentation/d/1zn1FBqt8QyxGNhDRnJk_WlQdvdfiiCQ9xFNDTQbisaw/edit?usp=sharing) [pdf](lecture_notes/04_11_Researcher_Degrees_of_Freedom.pdf)| [Interesting example](http://fivethirtyeight.com/features/science-isnt-broken/) |
 | 4/12 | Inference vs. prediction || [Google Slides](https://docs.google.com/presentation/d/1kOLtJjTLK7AqC5epde9vYucggl1Wd-UOa_hXAHgyhHI/edit?usp=sharing) [pdf](lecture_notes/04_12_Inference_vs_Prediction.pdf)
 | 4/13 | Knowing when to get help || [Google Slides](https://docs.google.com/presentation/d/1MbuzdUVLPE9dLRmBY2bT7ivJ-ACU-lSLLQN6AyMabcI/edit?usp=sharing) [pdf](lecture_notes/04_13_Knowing_When_To_Get_Help.pdf) | [R markdown]()|
