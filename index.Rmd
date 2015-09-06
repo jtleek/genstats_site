@@ -69,14 +69,14 @@ output:
 | 3/1 | Week 3 Introduction | | [Google Slides](https://docs.google.com/presentation/d/133fCjZduCBkK-EjU6sawPGVH-Gu61DWsiDMwBN3oCdY/edit?usp=sharing) [pdf](lecture_notes/03_01_Week3_Introduction.pdf) |   |
 | 3/2 | Logistic regression || [Google Slides](https://docs.google.com/presentation/d/1yMkQR2Pwz73gjFBSGjiWKhOgCmAdcb1_99pNTAUBoQ0/edit?usp=sharing) [pdf](lecture_notes/03_02_Logistic_Regression.pdf) | |
 | 3/3 | Regression for counts|| [Google Slides](https://docs.google.com/presentation/d/1BY2sQgZiUvBLlLIzRnxaGVXRMX4UoSkN_bAxAg7YhBk/edit?usp=sharing) [pdf](lecture_notes/03_03_Regression_For_Counts.pdf) | |
-| 3/4 | GLMs in R || ||
+| 3/4 | GLMs in R ||[html](http://jtleek.com/genstats/inst/doc/03_04_GLMs.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_04_GLMs.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_04_GLMs.R)|
 | 3/5 | Inference || [Google Slides](https://docs.google.com/presentation/d/1nScNQ8KWZeN9JdalCWHISxTYn1kabOlyGoLNvijVbgw/edit?usp=sharing) [pdf](lecture_notes/03_05_Inference.pdf) ||
 | 3/6 | Null and alternative hypotheses || [Google Slides](https://docs.google.com/presentation/d/1Swuv26CvCDjmbo-sr8Ab0mwqm9xjyPWBBKUQaBvUA2o/edit?usp=sharing) [pdf](lecture_notes/03_06_Null_and_Alternative_Hypotheses.pdf)||
 | 3/7 | Calculating statistics || [Google Slides](https://docs.google.com/presentation/d/1ihC-JNwDz2qUm_3xRdBA4sWKr7OKSFYrverz64VkCcs/edit?usp=sharing) [pdf](lecture_notes/03_07_Calculating_Statistics.pdf) | |
 | 3/8 | Comparing models || [Google Slides](https://docs.google.com/presentation/d/1eTxmWaLytgtJsHxcqw6yMNKvPL8LUyzPKH3AL-nCCU8/edit?usp=sharing) [pdf](lecture_notes/03_08_Comparing_Models.pdf) | [html](http://jtleek.com/genstats/inst/doc/03_08_comparing-models.html) [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_08_comparing-models.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_08_comparing-models.R)||
-| 3/9 | Calculating statistics in R || |||
+| 3/9 | Calculating statistics in R ||[html](http://jtleek.com/genstats/inst/doc/03_09_Calculating_statistics.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_09_Calculating_statistics.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_09_Calculating_statistics.R)|
 | 3/10 | Permutation || [Google Slides](https://docs.google.com/presentation/d/11bq2zCZmlqovnl8DmgVlV3-xfHHAZsUgI03v8fDmb9g/edit?usp=sharing) [pdf](lecture_notes/03_10_Permutation.pdf) | |
-| 3/11 | Permutation in R || | ||
+| 3/11 | Permutation in R ||[html](http://jtleek.com/genstats/inst/doc/03_11_Permutation.html) | [R markdown](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_11_Permutation.Rmd) [R code](https://github.com/jtleek/genstats/blob/gh-pages/inst/doc/03_11_Permutation.R) |
 | 3/12 | P-values || [Google Slides](https://docs.google.com/presentation/d/1z3hi_DDocFMcq0RzQYxCY69_gLqdHKvKj8DX_efh6es/edit?usp=sharing) [pdf](lecture_notes/03_12_P-values.pdf) | |
 | 3/13 | Multiple testing || [Google Slides](https://docs.google.com/presentation/d/1kkWJRWehPnbzLUA5F8g5CjRzpWCn6a5uQBYC1iUwsyk/edit?usp=sharing) [pdf](lecture_notes/03_13_Multiple-testing.pdf) | |
 | 3/14 | P-values and multiple testing in R || | ||
@@ -86,15 +86,15 @@ output:
 | 4/3 | More enrichment || [Google Slides](https://docs.google.com/presentation/d/1vaqmlzgJ8YtnQnq_TDpOUoaAwGrvS7j7h0zvcVRwYwg/edit?usp=sharing) [pdf](lecture_notes/04_03_More_Enrichment.pdf) | |
 | 4/4 | Gene set analysis in R || ||
 | 4/5 | The process for RNA-seq || [Google Slides](https://docs.google.com/presentation/d/1U772a4WwYAT11kUn-jNDEUtLEgetbKHDxRrK0KD5z88/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_RNA-seq.pdf)||
-| 4/5 | The process for Chip-Seq ||[Google Slides](https://docs.google.com/presentation/d/1z3pxhFyg2W7bcFaDb2O0MOwS33mh7CrtAPbnfWaZx48/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_ChIP-Seq.pdf)||
-| 4/6 | The process for DNA methylation || [Google Slides](https://docs.google.com/presentation/d/1d6Vn9lGP1cvnCHbHe0MvNJkFlf8seekr6tqKX3kR4I4/edit?usp=sharing) [pdf](lecture_notes/04_06_Process_for_DNA_Methylation.pdf)||
-| 4/7 | The process for GWAS/WGS || [Google Slides](https://docs.google.com/presentation/d/1r3FTQfcS6aoCmA40BZIw_D4b3W4E8cor4LzJotCXCa0/edit?usp=sharing) [pdf](lecture_notes/04_07_Process_for_GWAS_and_WGS.pdf)||
-| 4/8 | Combining data types (eQTL) ||[Google Slides](https://docs.google.com/presentation/d/1bNeOkrK-wuECVbqWu5LF6WoDxcpAuHsgXXBwWLSjits/edit?usp=sharing) [pdf](lecture_notes/04_08_eQTL.pdf)||
-| 4/9 | eQTL in R || ||
-| 4/10 | Researcher degrees of freedom || [Google Slides](https://docs.google.com/presentation/d/1zn1FBqt8QyxGNhDRnJk_WlQdvdfiiCQ9xFNDTQbisaw/edit?usp=sharing) [pdf](lecture_notes/04_10_Researcher_Degrees_of_Freedom.pdf)| [Interesting example](http://fivethirtyeight.com/features/science-isnt-broken/) |
-| 4/11 | Inference vs. prediction || [Google Slides](https://docs.google.com/presentation/d/1kOLtJjTLK7AqC5epde9vYucggl1Wd-UOa_hXAHgyhHI/edit?usp=sharing) [pdf](lecture_notes/04_11_Inference_vs_Prediction.pdf)
-| 4/12 | Knowing when to get help || [Google Slides](https://docs.google.com/presentation/d/1MbuzdUVLPE9dLRmBY2bT7ivJ-ACU-lSLLQN6AyMabcI/edit?usp=sharing) [pdf](lecture_notes/04_12_Knowing_When_To_Get_Help.pdf) | [R markdown]()|
-| 4/12 | Course Wrap-up | | [Google Slides](https://docs.google.com/presentation/d/1DNrW5ZN17zsEXnwOWIVVVQ7VYSNqOO9wUKXuHDfw6TQ/edit?usp=sharing) [pdf](lecture_notes/04_01_WrapUp.pdf) |  |
+| 4/6 | The process for Chip-Seq ||[Google Slides](https://docs.google.com/presentation/d/1z3pxhFyg2W7bcFaDb2O0MOwS33mh7CrtAPbnfWaZx48/edit?usp=sharing) [pdf](lecture_notes/04_05_Process_for_ChIP-Seq.pdf)||
+| 4/7 | The process for DNA methylation || [Google Slides](https://docs.google.com/presentation/d/1d6Vn9lGP1cvnCHbHe0MvNJkFlf8seekr6tqKX3kR4I4/edit?usp=sharing) [pdf](lecture_notes/04_07_Process_for_DNA_Methylation.pdf)||
+| 4/8 | The process for GWAS/WGS || [Google Slides](https://docs.google.com/presentation/d/1r3FTQfcS6aoCmA40BZIw_D4b3W4E8cor4LzJotCXCa0/edit?usp=sharing) [pdf](lecture_notes/04_08_Process_for_GWAS_and_WGS.pdf)||
+| 4/9 | Combining data types (eQTL) ||[Google Slides](https://docs.google.com/presentation/d/1bNeOkrK-wuECVbqWu5LF6WoDxcpAuHsgXXBwWLSjits/edit?usp=sharing) [pdf](lecture_notes/04_09_eQTL.pdf)||
+| 4/10 | eQTL in R || ||
+| 4/11 | Researcher degrees of freedom || [Google Slides](https://docs.google.com/presentation/d/1zn1FBqt8QyxGNhDRnJk_WlQdvdfiiCQ9xFNDTQbisaw/edit?usp=sharing) [pdf](lecture_notes/04_11_Researcher_Degrees_of_Freedom.pdf)| [Interesting example](http://fivethirtyeight.com/features/science-isnt-broken/) |
+| 4/12 | Inference vs. prediction || [Google Slides](https://docs.google.com/presentation/d/1kOLtJjTLK7AqC5epde9vYucggl1Wd-UOa_hXAHgyhHI/edit?usp=sharing) [pdf](lecture_notes/04_12_Inference_vs_Prediction.pdf)
+| 4/13 | Knowing when to get help || [Google Slides](https://docs.google.com/presentation/d/1MbuzdUVLPE9dLRmBY2bT7ivJ-ACU-lSLLQN6AyMabcI/edit?usp=sharing) [pdf](lecture_notes/04_13_Knowing_When_To_Get_Help.pdf) | [R markdown]()|
+| 4/14 | Course Wrap-up | | [Google Slides](https://docs.google.com/presentation/d/1DNrW5ZN17zsEXnwOWIVVVQ7VYSNqOO9wUKXuHDfw6TQ/edit?usp=sharing) [pdf](lecture_notes/04_14_WrapUp.pdf) |  |
 |---|---|---|---|---|
 
 
@@ -111,8 +111,9 @@ biocLite("jtleek/genstats")
 You can see the list of lecture notes and open them using the vignette command:
 
 ```{r eval=FALSE}
+library(genstats)
 vignette(package="genstats")
-vignette("rmarkdown")
+vignette("01_13_clustering")
 ```
 
 
