@@ -105,7 +105,7 @@ You can get all of the code used in the class by installing the R package:
 ```{r eval=FALSE}
 source("http://bioconductor.org/biocLite.R")
 biocLite("devtools")    # only if devtools not yet installed
-biocLite("jtleek/genstats")
+biocLite("jtleek/genstats",ref="gh-pages")
 ```
 
 You can see the list of lecture notes and open them using the vignette command:
